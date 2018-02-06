@@ -1,10 +1,7 @@
 # Your code goes here!
 class Dog
-  def initialize(n)
-    @name=n
-
-  end
+   attr_accessor :name
   def bark
     puts "woof!"
-  end 
+  end
 end
