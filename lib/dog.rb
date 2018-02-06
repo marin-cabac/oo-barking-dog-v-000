@@ -1,6 +1,6 @@
 # Your code goes here!
-class Dog 
-  def initialize 
+class Dog
+  def initialize
     puts "woof!"
-  end 
+  end
 end 
