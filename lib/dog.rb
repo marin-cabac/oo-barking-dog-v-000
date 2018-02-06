@@ -4,4 +4,4 @@ class Dog
     @name=n
     puts "woof!"
   end
-end 
+end
