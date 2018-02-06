@@ -2,6 +2,9 @@
 class Dog
   def initialize(n)
     @name=n
-    puts "woof!"
+    
   end
+  def bark 
+    puts "woof!"
+  end 
 end
