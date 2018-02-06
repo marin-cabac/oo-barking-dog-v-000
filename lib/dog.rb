@@ -1,6 +1,7 @@
 # Your code goes here!
 class Dog
-  def initialize
+  def initialize(n)
+    @name=n
     puts "woof!"
   end
 end 
